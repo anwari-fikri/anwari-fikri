@@ -1,11 +1,11 @@
-# Hi there 👋
+# Welcome 👋
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=anwari-fikri&show_icons=true&title_color=343680&text_color=343680&icon_color=F79FBB&border_color=F79FBB" alt="Anwari's GitHub stats">
 </div>
 
 ## About Me
-* Hi there! I'm a web developer with a degree in Computer Science, passionate on building beautiful and functional websites. 
+* I'm a web developer with a degree in Computer Science, passionate on building beautiful and functional websites. 
 * I specialize in using modern web technologies such as React, Tailwind, and Next.js to create fast, responsive, and user-friendly interfaces. 
 * I'm also experienced in using data science libraries such as Pandas and Scikit-learn to extract insights and value from data. 
 
@@ -142,8 +142,14 @@ When I'm not coding, I enjoy watching anime, playing games, and learning Japanes
 
 ## Connect
 Feel free to connect with me on [![](https://img.shields.io/badge/-LinkedIn-343680?style=flat-square)](https://www.linkedin.com/in/anwari-fikri/)
+    
+## Whenever I got stuck doing programming, I just recall the existence of this image
+<img src="https://github.com/anwari-fikri/anwari-fikri/assets/50336496/b5ae0ed2-7930-40dc-9600-5b64ec880b1f" width="380" height="395">
+
+    
 <!--
 **anwari-fikri/anwari-fikri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
