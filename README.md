@@ -4,10 +4,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=anwari-fikri&show_icons=true&title_color=343680&text_color=343680&icon_color=F79FBB&border_color=F79FBB" alt="Anwari's GitHub stats">
 </div>
 
+
 ## About Me
 * I'm a web developer with a degree in Computer Science, passionate on building beautiful and functional websites. 
 * I specialize in using modern web technologies such as React, Tailwind, and Next.js to create fast, responsive, and user-friendly interfaces. 
 * I'm also experienced in using data science libraries such as Pandas and Scikit-learn to extract insights and value from data. 
+
+## Currently doing daily LeetCode! (Since 9 Aug 2024)
+![Leetcode Stats](https://leetcard.jacoblin.cool/anwari-fikri)
 
 ## Check out my website and blog!
 I put a lot of effort into my personal [![](https://img.shields.io/badge/-website-F79FBB?style=flat-square)](https://www.anwarifikri.com/) and [![](https://img.shields.io/badge/-blogs-F79FBB?style=flat-square)](https://www.anwarifikri.com/blogs) , where I share my experiences and showcase my projects. Please have a look!
