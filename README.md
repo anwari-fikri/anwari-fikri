@@ -10,7 +10,7 @@
 * I specialize in using modern web technologies such as React, Tailwind, and Next.js to create fast, responsive, and user-friendly interfaces. 
 * I'm also experienced in using data science libraries such as Pandas and Scikit-learn to extract insights and value from data. 
 
-## Currently doing daily LeetCode! (Since 9 Aug 2024)
+## ~Currently doing daily LeetCode! (Since 9 Aug 2024)~ im not built for this 😹
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anwari-fikri)
 
 ## Check out my website and blog!
